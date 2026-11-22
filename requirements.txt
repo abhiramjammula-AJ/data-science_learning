@@ -1,0 +1,31 @@
+# Core
+numpy
+pandas
+openpyxl
+jupyter
+
+# Visualisation
+matplotlib
+seaborn
+
+# Statistics
+scipy
+statsmodels
+
+# Machine learning
+scikit-learn
+xgboost
+lightgbm
+apyori
+ppscore
+
+# Deep learning
+tensorflow
+keras-tuner
+
+# NLP
+nltk
+textblob
+
+# Deployment
+streamlit
